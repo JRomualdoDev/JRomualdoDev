@@ -17,7 +17,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="www.linkedin.com/in/j-romualdo" target="blank"><img align="center" src="https://img.shields.io/badge/Jose_Romualdo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:jromualdo3@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jromualdo3@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/JRomualdoDev" target="blank"><img align="center" src="https://img.shields.io/badge/JromualdoDev-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="www.linkedin.com/in/j-romualdo" target="blank"><img align="center" src="https://img.shields.io/badge/Jose_Romualdo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;&nbsp;&nbsp;  <a href="mailto:jromualdo3@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jromualdo3@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/JRomualdoDev" target="blank"><img align="center" src="https://img.shields.io/badge/JromualdoDev-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br>
