@@ -58,6 +58,8 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![JromualdoDev's github stats](https://github-readme-stats.vercel.app/api?username=jromualdodev&show_icons=true&theme=merko)](https://github.com/jromualdodev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jromualdodev&layout=compact&theme=merko)](https://github.com/jromualdodev/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jromualdodev&layout=compact&theme=merko)](https://github.com/jromualdodev/github-readme-stats)
 
 
