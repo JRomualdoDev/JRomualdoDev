@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me 
 
- 👨‍💻 Estudando sobre java no momento, mergulho diariamente no mundo das tecnologias — como Next.js, Node.js, Laravel. 
+ 👨‍💻  Mergulho diariamente no universo da tecnologia, explorando e evoluindo com ferramentas como Next.js, Node.js, Laravel. 
 
  🔍 Adoro entender como as coisas funcionam por trás dos panos e descobrir formas criativas de resolver problemas com código. Para mim, programar é como resolver quebra-cabeças complexos onde cada linha me aproxima da vitória.
 
