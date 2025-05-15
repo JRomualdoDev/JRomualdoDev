@@ -26,9 +26,6 @@
 
 ## 🛠️ My Skills
 <br>
-👉 Linguagens de Programação
-
-<br>
 <br>
 
 <p align="left"> 
