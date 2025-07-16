@@ -29,6 +29,11 @@
 <br>
 
 <p align="left"> 
+ &emsp;
+ <a href="https://www.java.com/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-6DA55F?logo=java&logoColor=red"/>
+  </a>
+  
   &emsp; 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
