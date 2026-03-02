@@ -57,7 +57,7 @@
   &emsp;
 </p>
 
-<Br>
+<!-- <Br>
 <hr>
 <Br>
 <h1>GitHub Stats! 📊</h1>
@@ -65,6 +65,6 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jromualdodev&layout=compact&theme=merko)](https://github.com/jromualdodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jromualdodev&layout=compact&theme=merko)](https://github.com/jromualdodev/github-readme-stats) -->
 
 
