@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me 
 
- 👨‍💻  Mergulho diariamente no universo da tecnologia, explorando e evoluindo com ferramentas como Next.js, Node.js, Laravel. 
+ 👨‍💻  Mergulho diariamente no universo da tecnologia, explorando e evoluindo com ferramentas como Java e Spring Boot. 
 
  🔍 Adoro entender como as coisas funcionam por trás dos panos e descobrir formas criativas de resolver problemas com código. Para mim, programar é como resolver quebra-cabeças complexos onde cada linha me aproxima da vitória.
 
